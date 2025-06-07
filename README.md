@@ -2,7 +2,7 @@
 
 💻 Frontend / Full-Stack Developer | JavaScript | React.js | Node.js  
 🚀 Passionate about building web applications that are fast, scalable, and user-friendly  
-📍 Based in Noida, India | Open to Remote, Hybrid, and On-site roles
+📍 Based in Noida, Gorgoun, Delhi, India | Open to Remote, Hybrid, and On-site roles
 
 ---
 
