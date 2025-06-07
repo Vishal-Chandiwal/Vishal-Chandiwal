@@ -36,8 +36,8 @@ I'm looking for **Full-Time** or **Internship** opportunities as a **Frontend** 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | **Airline Reservation System** | Html, Css, Javascript | Web app for booking and managing flights |
-| **My To Do App** | — |Html, Css, Javascript | web app for to do list to manage our daily task |
-**Hospital Food Manager** | React.js, Node.js, MongoDB | Full-stack app to manage hospital food services |(Currently i am working on it)
+| **My To Do App** |Html, Css, Javascript | web app for to do list to manage our daily task |
+**Hospital Food Manager** | React.js, Node.js, MongoDB | Full-stack app to manage hospital food services(Currently i am working on it) |
 ---
 
 ### 🌱 Let's Collaborate!
