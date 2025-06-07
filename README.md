@@ -10,7 +10,7 @@
 - **Frontend**: React.js, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
-- **Tools**: Git, GitHub, VS Code, Postman, Figma, Vercel, Railway, Render
+- **Tools**: Git, GitHub, VS Code,Vercel, Render
 
 ---
 
@@ -24,10 +24,10 @@
 I'm looking for **Full-Time** or **Internship** opportunities as a **Frontend** or **Full-Stack Developer**.
 
 📫 Reach me at:
-- 📧 [vishalchandiwal9@gmail.com](mailto:vishalchandiwal9@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishalchandiwal)
-- 🔗 [GitHub](https://github.com/vishalchandiwal)
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(Replace with actual portfolio if available)*
+- 📧 [vishalthakur745810@gmail.com](mailto:vishalthakur745810@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-chandiwal)
+- 🔗 [GitHub](https://github.com/Vishal-Chandiwal)
+- 🌐 [Portfolio].(I am working on my portfolio)
 
 ---
 
@@ -35,10 +35,9 @@ I'm looking for **Full-Time** or **Internship** opportunities as a **Frontend** 
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Airline Reservation System** | Java, Swing | Desktop app for booking and managing flights |
-| **Hospital Food Manager** | React.js, Node.js, MongoDB | Full-stack app to manage hospital food services |
-| **More Projects Coming Soon** | — | I'm continuously building and improving new apps |
-
+| **Airline Reservation System** | Html, Css, Javascript | Web app for booking and managing flights |
+| **My To Do App** | — |Html, Css, Javascript | web app for to do list to manage our daily task |
+**Hospital Food Manager** | React.js, Node.js, MongoDB | Full-stack app to manage hospital food services |(Currently i am working on it)
 ---
 
 ### 🌱 Let's Collaborate!
